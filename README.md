@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Sergi Taberner</h1>
 <h3 align="center">soy un programador junior apasionado</h3>
 
-- 🔭 I’m currently working on **SIPSorcery**
+- 🔭 I’m currently working on **SetDevelopers**
 
 - 💬 Ask me about **HTM, CSS, JAVA, SQL, PostgreSQL, C#, MongoDB**
 
