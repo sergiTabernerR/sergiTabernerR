@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, Me llamo Sergi Taberner</h1>
-<h3 align="center">soy un programador junior apasionado</h3>
+<h3 align="center">soy un programador con casi dos años de experiencia</h3>
 
-- 🔭 I’m currently working on **SetDevelopers**
+- 🔭 Actualmente estoy trabajando en **SetDevelopers**
 
-- 💬 Ask me about **HTM, CSS, JAVA, SQL, PostgreSQL, C#, MongoDB**
+- 💬 Preguntame sobre **HTM, CSS, JAVA, SQL, PostgreSQL, C#, MongoDB, Dart, Flutter**
 
-- 📫 How to reach me **sergitaberner@hotmail.es**
+- 📫 PUedes contactar conmigo en el correo **sergitaberner@hotmail.es**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sergitabernerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergitabernerr" height="30" width="40" /></a>
 </p>
