@@ -5,7 +5,7 @@
 
 - 💬 Preguntame sobre **HTM, CSS, JAVA, SQL, PostgreSQL, C#, MongoDB, Dart, Flutter**
 
-- 📫 PUedes contactar conmigo en el correo **sergitaberner@hotmail.es**
+- 📫 Puedes contactar conmigo en el correo **sergitaberner@hotmail.es**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
