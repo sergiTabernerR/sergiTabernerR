@@ -12,7 +12,7 @@
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sergitabernerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergitabernerr" height="30" width="40" /></a>
-<a href="https://sergitabernerrodriguez.neocities.org/" target="blank"><img align="center" src="https://img.freepik.com/vector-premium/ilustracion-vector-icono-www_618588-39.jpg?w=740" alt="sergitabernerr" height="30" width="40" /></a>
+<a href="https://sergitabernerrodriguez.neocities.org/" target="blank"><img align="center" src="https://img.freepik.com/foto-gratis/icono-busqueda-global-sobre-fondo-blanco_53876-65525.jpg?w=740&t=st=1705484201~exp=1705484801~hmac=9eba5b055512c30d182741ac933b528fb611258b02bec84975e0e523b623745a" alt="sergitabernerr" height="30" width="40" /></a>
 
 </p>
 
