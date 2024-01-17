@@ -7,9 +7,13 @@
 
 - 📫 Puedes contactar conmigo en el correo **sergitaberner@hotmail.es**
 
+- Puedes ver mi Porfolio Web en el siguiente enlace: **[Portfolio Web](https://sergitabernerrodriguez.neocities.org/)** 
+
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sergitabernerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergitabernerr" height="30" width="40" /></a>
+<a href="https://sergitabernerrodriguez.neocities.org/" target="blank"><img align="center" src="https://img.freepik.com/vector-premium/ilustracion-vector-icono-www_618588-39.jpg?w=740" alt="sergitabernerr" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
