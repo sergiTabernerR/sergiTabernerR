@@ -7,7 +7,7 @@
 
 - 📫 Puedes contactar conmigo en el correo **sergitaberner@hotmail.es**
 
-- Puedes ver mi Porfolio Web en el siguiente enlace: **[Portfolio Web](https://sergitabernerrodriguez.neocities.org/)** 
+- Puedes ver mi Portfolio Web en el siguiente enlace: **[Portfolio Web](https://sergitabernerrodriguez.neocities.org/)** 
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
