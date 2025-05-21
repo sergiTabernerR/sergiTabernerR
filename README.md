@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Sergi Taberner</h1>
 <h3 align="center">soy un programador con casi dos años de experiencia</h3>
 
-- 🔭 Actualmente estoy trabajando en **SetDevelopers**
+- 🔭 Actualmente estoy trabajando en **Alandalus Feeling**
 
 - 💬 Preguntame sobre **HTM, CSS, JAVA, SQL, PostgreSQL, C#, MongoDB, Dart, Flutter**
 
